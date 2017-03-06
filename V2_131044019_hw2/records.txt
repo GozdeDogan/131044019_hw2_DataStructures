@@ -1,0 +1,15 @@
+s,gozdedogan,gozde
+s,sinem,snmdmrl
+u,elmas,parola
+u,kadir,erbasan
+u,Ahmet Sucu,parolayok
+u,g123,123456789
+u,gozde5864,5864
+b,x-men,Gozde,e
+b,Fakat,Muzeyyen,e
+b,Fakat Muzeyyen Bu Derin Bir Tutku,Ilhami Algor,e
+b,Gelip Gider,Gozde DOGAN,e
+b,Kadirin Yolu,Kadir Erbasan,e
+b,Ali Ata Bak,Ali,e
+b,Ali Ata Bak Ali,Ali,e
+b,Milena'ya Mektuplar,Kafka,e

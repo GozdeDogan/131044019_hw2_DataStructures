@@ -1,0 +1,11 @@
+s,gozdedogan,gozde
+s,sinem,snmdmrl
+u,elmas,parola
+u,kadir,erbasan
+u,Ahmet Sucu,parolayok
+b,Insan Ne Ile Yasar,Tolstoy,e
+b,KucukPrens,bilmemne,e
+b,x-men,Gozde,e
+b,Fakat,Muzeyyen,e
+b,Fakat Muzeyyen Bu Derin Bir Tutku,Ilhami Algor,e
+b,Gelip Gider,Gozde DOGAN,e
